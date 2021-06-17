@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b473bfa357a78348971eed8cb9181397a18afa90.json": {
-            "sha1": "b473bfa357a78348971eed8cb9181397a18afa90"
+        "include/all$96424bf7cfd610cd916a63358d5b9ce92d14ad10.json": {
+            "sha1": "96424bf7cfd610cd916a63358d5b9ce92d14ad10"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
-        "tr1um9h/advanced-custom-fields-pro"
+        "tr1um9h/advanced-custom-fields-pro",
+        "tr1um9h/gravityforms"
     ]
 }
