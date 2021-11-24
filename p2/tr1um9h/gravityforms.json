@@ -3,6 +3,44 @@
         "tr1um9h/gravityforms": [
             {
                 "name": "tr1um9h/gravityforms",
+                "version": "2.5.15",
+                "version_normalized": "2.5.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tr1um9h/gravityforms.git",
+                    "reference": "cf538f697e46d3bd4971c7a0ea1f0c5c38285a53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tr1um9h/gravityforms/zipball/cf538f697e46d3bd4971c7a0ea1f0c5c38285a53",
+                    "reference": "cf538f697e46d3bd4971c7a0ea1f0c5c38285a53",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2021-11-24T01:00:40+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc."
+                    },
+                    {
+                        "name": "Nikun Patel",
+                        "email": "design@nikunpatel.com"
+                    }
+                ],
+                "description": "GravityForms Plugin",
+                "support": {
+                    "source": "https://github.com/tr1um9h/gravityforms/tree/2.5.15",
+                    "issues": "https://github.com/tr1um9h/gravityforms/issues"
+                }
+            },
+            {
+                "name": "tr1um9h/gravityforms",
                 "version": "2.5.5.3",
                 "version_normalized": "2.5.5.3",
                 "source": {
