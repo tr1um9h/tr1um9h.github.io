@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tr1um9h/advanced-custom-fields-pro.git",
-                    "reference": "b5ea2f1c6df9b4ffa95e138789b353a50c15d90d"
+                    "reference": "47517ae4cd50bef2908681088fa587856410e748"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tr1um9h/advanced-custom-fields-pro/zipball/b5ea2f1c6df9b4ffa95e138789b353a50c15d90d",
-                    "reference": "b5ea2f1c6df9b4ffa95e138789b353a50c15d90d",
+                    "url": "https://api.github.com/repos/tr1um9h/advanced-custom-fields-pro/zipball/47517ae4cd50bef2908681088fa587856410e748",
+                    "reference": "47517ae4cd50bef2908681088fa587856410e748",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2022-11-30T16:45:03+00:00",
+                "time": "2023-05-16T20:07:54+00:00",
                 "type": "wordpress-plugin",
                 "license": [
                     "GPLv3"
@@ -32,7 +32,7 @@
                 ],
                 "description": "Advanced Custom Fields Pro WordPress plugin",
                 "support": {
-                    "source": "https://github.com/tr1um9h/advanced-custom-fields-pro/tree/6.0.5",
+                    "source": "https://github.com/tr1um9h/advanced-custom-fields-pro/tree/6.1.6",
                     "issues": "https://github.com/tr1um9h/advanced-custom-fields-pro/issues"
                 }
             }

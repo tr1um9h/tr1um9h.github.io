@@ -211,25 +211,25 @@
                     "issues": "https://github.com/tr1um9h/advanced-custom-fields-pro/issues"
                 }
             },
-            "dev-master": {
+            "6.1.6": {
                 "name": "tr1um9h/advanced-custom-fields-pro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "6.1.6",
+                "version_normalized": "6.1.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tr1um9h/advanced-custom-fields-pro.git",
-                    "reference": "b5ea2f1c6df9b4ffa95e138789b353a50c15d90d"
+                    "reference": "47517ae4cd50bef2908681088fa587856410e748"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tr1um9h/advanced-custom-fields-pro/zipball/b5ea2f1c6df9b4ffa95e138789b353a50c15d90d",
-                    "reference": "b5ea2f1c6df9b4ffa95e138789b353a50c15d90d",
+                    "url": "https://api.github.com/repos/tr1um9h/advanced-custom-fields-pro/zipball/47517ae4cd50bef2908681088fa587856410e748",
+                    "reference": "47517ae4cd50bef2908681088fa587856410e748",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2022-11-30T16:45:03+00:00",
+                "time": "2023-05-16T20:07:54+00:00",
                 "type": "wordpress-plugin",
                 "license": [
                     "GPLv3"
@@ -242,7 +242,42 @@
                 ],
                 "description": "Advanced Custom Fields Pro WordPress plugin",
                 "support": {
-                    "source": "https://github.com/tr1um9h/advanced-custom-fields-pro/tree/6.0.5",
+                    "source": "https://github.com/tr1um9h/advanced-custom-fields-pro/tree/6.1.6",
+                    "issues": "https://github.com/tr1um9h/advanced-custom-fields-pro/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tr1um9h/advanced-custom-fields-pro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tr1um9h/advanced-custom-fields-pro.git",
+                    "reference": "47517ae4cd50bef2908681088fa587856410e748"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tr1um9h/advanced-custom-fields-pro/zipball/47517ae4cd50bef2908681088fa587856410e748",
+                    "reference": "47517ae4cd50bef2908681088fa587856410e748",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2023-05-16T20:07:54+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "email": "design@nikunpatel.com"
+                    }
+                ],
+                "description": "Advanced Custom Fields Pro WordPress plugin",
+                "support": {
+                    "source": "https://github.com/tr1um9h/advanced-custom-fields-pro/tree/6.1.6",
                     "issues": "https://github.com/tr1um9h/advanced-custom-fields-pro/issues"
                 }
             }
@@ -476,25 +511,25 @@
                     "issues": "https://github.com/tr1um9h/gravityforms/issues"
                 }
             },
-            "dev-master": {
+            "2.7.6": {
                 "name": "tr1um9h/gravityforms",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.7.6",
+                "version_normalized": "2.7.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tr1um9h/gravityforms.git",
-                    "reference": "3d21c6aa4df8a526c0918fdb75a6c486e4415553"
+                    "reference": "0e5b7a8f7379a4829910d1e50ce2a6f6cc4125d1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tr1um9h/gravityforms/zipball/3d21c6aa4df8a526c0918fdb75a6c486e4415553",
-                    "reference": "3d21c6aa4df8a526c0918fdb75a6c486e4415553",
+                    "url": "https://api.github.com/repos/tr1um9h/gravityforms/zipball/0e5b7a8f7379a4829910d1e50ce2a6f6cc4125d1",
+                    "reference": "0e5b7a8f7379a4829910d1e50ce2a6f6cc4125d1",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2022-11-30T16:45:44+00:00",
+                "time": "2023-05-16T20:07:18+00:00",
                 "type": "wordpress-plugin",
                 "license": [
                     "GPLv3"
@@ -510,7 +545,45 @@
                 ],
                 "description": "GravityForms Plugin",
                 "support": {
-                    "source": "https://github.com/tr1um9h/gravityforms/tree/2.6.8.1",
+                    "source": "https://github.com/tr1um9h/gravityforms/tree/2.7.6",
+                    "issues": "https://github.com/tr1um9h/gravityforms/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tr1um9h/gravityforms",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tr1um9h/gravityforms.git",
+                    "reference": "0e5b7a8f7379a4829910d1e50ce2a6f6cc4125d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tr1um9h/gravityforms/zipball/0e5b7a8f7379a4829910d1e50ce2a6f6cc4125d1",
+                    "reference": "0e5b7a8f7379a4829910d1e50ce2a6f6cc4125d1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2023-05-16T20:07:18+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc."
+                    },
+                    {
+                        "name": "Nikun Patel",
+                        "email": "design@nikunpatel.com"
+                    }
+                ],
+                "description": "GravityForms Plugin",
+                "support": {
+                    "source": "https://github.com/tr1um9h/gravityforms/tree/2.7.6",
                     "issues": "https://github.com/tr1um9h/gravityforms/issues"
                 }
             }
