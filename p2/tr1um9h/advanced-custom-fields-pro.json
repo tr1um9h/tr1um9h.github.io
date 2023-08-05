@@ -245,6 +245,41 @@
                     "source": "https://github.com/tr1um9h/advanced-custom-fields-pro/tree/6.1.6",
                     "issues": "https://github.com/tr1um9h/advanced-custom-fields-pro/issues"
                 }
+            },
+            {
+                "name": "tr1um9h/advanced-custom-fields-pro",
+                "version": "6.1.8",
+                "version_normalized": "6.1.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tr1um9h/advanced-custom-fields-pro.git",
+                    "reference": "3d621422463f657e081d4465cbd5cc519cc035a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tr1um9h/advanced-custom-fields-pro/zipball/3d621422463f657e081d4465cbd5cc519cc035a7",
+                    "reference": "3d621422463f657e081d4465cbd5cc519cc035a7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2023-08-05T20:17:37+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "email": "design@nikunpatel.com"
+                    }
+                ],
+                "description": "Advanced Custom Fields Pro WordPress plugin",
+                "support": {
+                    "source": "https://github.com/tr1um9h/advanced-custom-fields-pro/tree/6.1.8",
+                    "issues": "https://github.com/tr1um9h/advanced-custom-fields-pro/issues"
+                }
             }
         ]
     }

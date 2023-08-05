@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "tr1um9h/mapplic": [
+            {
+                "name": "tr1um9h/mapplic",
+                "version": "7.1.2",
+                "version_normalized": "7.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tr1um9h/mapplic.git",
+                    "reference": "4149e96a09d8efec9a1c088de97be2e9bf1e4d37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tr1um9h/mapplic/zipball/4149e96a09d8efec9a1c088de97be2e9bf1e4d37",
+                    "reference": "4149e96a09d8efec9a1c088de97be2e9bf1e4d37",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2023-08-05T20:18:59+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "sekler"
+                    },
+                    {
+                        "name": "Nikun Patel",
+                        "email": "design@nikunpatel.com"
+                    }
+                ],
+                "description": "Mapplic Plugin",
+                "support": {
+                    "source": "https://github.com/tr1um9h/mapplic/tree/7.1.2",
+                    "issues": "https://github.com/tr1um9h/mapplic/issues"
+                }
+            }
+        ]
+    }
+}
