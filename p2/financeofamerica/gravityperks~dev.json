@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "financeofamerica/gravityperks": [
+            {
+                "name": "financeofamerica/gravityperks",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tr1um9h/gravityperks.git",
+                    "reference": "2590b5a994ecd844001bb9e3c947e765a24936b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tr1um9h/gravityperks/zipball/2590b5a994ecd844001bb9e3c947e765a24936b1",
+                    "reference": "2590b5a994ecd844001bb9e3c947e765a24936b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2024-04-30T14:02:27+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Gravity Wiz"
+                    }
+                ],
+                "description": "Gravity Perks",
+                "support": {
+                    "source": "https://github.com/tr1um9h/gravityperks/tree/2.3.6",
+                    "issues": "https://github.com/tr1um9h/gravityperks/issues"
+                }
+            }
+        ]
+    }
+}
